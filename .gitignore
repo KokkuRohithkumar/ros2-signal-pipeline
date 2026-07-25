@@ -1,0 +1,30 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Compiled objects
+*.o
+*.so
+*.a
+*.gch
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+#CLion
+.idea/
+
+# Linux
+*.swp
+*~
